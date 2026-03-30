@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+*.o
+*.out
+*.gch
+*.dblite
+
+# OS / editor files
+.DS_Store
+._*
+*.geany
